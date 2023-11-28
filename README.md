@@ -45,7 +45,8 @@ Follow these simple steps to run the project on your local machine.
     - `Decision Tree.ipynb`
     - `Random Forest.ipynb`
     - `Feedforward Neural Network.ipynb`
-
+    - `Linear Regression.ipynb`
+      
 6. **Explore the Results:**
     Dive into the notebooks to explore the results and analysis.
 
